@@ -7,7 +7,8 @@
 		"markAsDone": "als erledigt markiert",
 		"markAsIncomplete": "Als unvollständig Aldwin",
 		"deleteTodo": "Löschen",
-		"placeholder": "Todo hinzufügen..."
+		"placeholder": "Todo hinzufügen...",
+		"addTodo": "Neue hinzufügen"
 	},
 	"pages": {
 		"home": {
