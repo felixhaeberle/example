@@ -14,12 +14,6 @@
 		},
 		"todo": {
 			"goToHome": "Zurück"
-		},
-		"error": {
-			"404": {
-				"title": "Seite nicht gefunden"
-			},
-			"cta": "Klicken Sie hier, um zur Startseite zurückzukehren"
 		}
 	},
 	"server": {
